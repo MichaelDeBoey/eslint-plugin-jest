@@ -1,3 +1,17 @@
+# [28.10.0](https://github.com/jest-community/eslint-plugin-jest/compare/v28.9.0...v28.10.0) (2024-12-19)
+
+
+### Features
+
+* **unbound-method:** ignore functions passed to `jest.mocked` ([#1681](https://github.com/jest-community/eslint-plugin-jest/issues/1681)) ([d868636](https://github.com/jest-community/eslint-plugin-jest/commit/d868636623497060f32c6b4ecd397ac7f40c2eae))
+
+# [28.9.0](https://github.com/jest-community/eslint-plugin-jest/compare/v28.8.3...v28.9.0) (2024-11-05)
+
+
+### Features
+
+* add TypeScript types ([#1667](https://github.com/jest-community/eslint-plugin-jest/issues/1667)) ([1ce1258](https://github.com/jest-community/eslint-plugin-jest/commit/1ce12588e7081558bd727dfe10428aed08080167))
+
 ## [28.8.3](https://github.com/jest-community/eslint-plugin-jest/compare/v28.8.2...v28.8.3) (2024-09-04)
 
 
